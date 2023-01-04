@@ -1,4 +1,4 @@
-# Skin and Bones
+# Skin and Bones 🏋🏻
 
 ## Tela de Login e Cadastro
 O projeto foi desenvolvido com o intuito acadêmico para obter nota nas atividade de extensão.
